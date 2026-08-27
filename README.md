@@ -1,9 +1,14 @@
-<img src="https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e" width="64" />
+# Dopamine — 选择语言 / Language selection
 
-# Dopamine
+请选择下列语言之一以查看仓库说明：
 
-A rootless semi-untethered jailbreak for iOS 15.0 - 17.3.1 (arm64e), iOS 15.0 - 18.7.1, 26.0 - 26.0.1 (A12/A13) and iOS 15.0 - 18.7.1 (arm64). More details will follow here soon.
+- English: [README.en.md](README.en.md)
+- 简体中文: [README.zh-CN.md](README.zh-CN.md)
+- 繁體中文: [README.zh-TW.md](README.zh-TW.md)
+- Русский: [README.ru.md](README.ru.md)
+- 한국어: [README.ko.md](README.ko.md)
+- Español: [README.es.md](README.es.md)
 
-Please note that all issues related to version support will be deleted without response.
+说明：每个语言页面顶部都包含返回此索引页面的链接。若要为仓库贡献更好的翻译或修正，请提交 Pull Request。
 
-Official website / download: https://ellekit.space/dopamine/
+— GitHub Copilot Chat Assistant (machine-translated + proofread)
